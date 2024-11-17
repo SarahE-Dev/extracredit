@@ -12,6 +12,7 @@ Toggle Task Completion: Mark tasks as completed or pending with a single click.
 Light/Dark Mode: Switch between light and dark themes for a comfortable user experience.
 
 Technologies Used
+
 React: A JavaScript library for building user interfaces.
 
 Vite: A fast build tool and development server for modern web projects.
@@ -19,3 +20,5 @@ Vite: A fast build tool and development server for modern web projects.
 Lucide-React: A collection of beautiful and customizable icons.
 
 LocalStorage: Browser storage for persisting tasks across sessions.
+
+TailwindCSS: Uses TaiwindCSS class names when toggling between light and dark modes
